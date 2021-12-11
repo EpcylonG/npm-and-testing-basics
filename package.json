@@ -13,7 +13,22 @@
     "src"
   ],
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.14",
     "moment": "^2.29.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpcylonG/npm-and-testing-basics.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/EpcylonG/npm-and-testing-basics/issues"
+  },
+  "homepage": "https://github.com/EpcylonG/npm-and-testing-basics#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
   }
 }
